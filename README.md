@@ -1,2 +1,2 @@
 # chicken-chicks-game
-a simple game by java
+a simple game using java
